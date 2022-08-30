@@ -24,7 +24,7 @@
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0",
     "eslint-plugin-react": "^7.30.1",
-    "next": "12.2.3",
+    "next": "12.2.4",
     "next-pwa": "^5.5.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
